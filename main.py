@@ -1,8 +1,7 @@
 import tkinter as tk
 from PIL import ImageTk, Image
 import mysql.connector as db
-from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
-from matplotlib.figure import Figure
+
 
 
 def submitbtn1():
