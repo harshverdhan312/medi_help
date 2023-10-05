@@ -35,6 +35,14 @@ This project helps people to keep track of thier Blood pressure and keep thier l
 3. Enter your MySQL credentials to connect 
 4. Start saving you data
 
+## Contributing 
+
+1. You all are welcomed to Contribute.
+
+
+## License 
+
+1. Python
 
 
 
